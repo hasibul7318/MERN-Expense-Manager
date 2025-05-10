@@ -1,6 +1,6 @@
  Expense Manager
 🚀 Overview
-The Mini Expense Manager is a full-stack web application that helps users track their expenses, categorize spending, and gain insights into their financial habits. The app features JWT-based authentication, CRUD operations for expenses, and data visualization through charts.
+The Expense Manager is a full-stack web application that helps users track their expenses, categorize spending, and gain insights into their financial habits. The app features JWT-based authentication, CRUD operations for expenses, and data visualization through charts.
 
 
 
