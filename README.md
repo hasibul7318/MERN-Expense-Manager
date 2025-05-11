@@ -14,7 +14,7 @@ Deployment: Render
 1️⃣ User Authentication (Register/Login using JWT)
 2️⃣ Expense Management (CRUD) (Add, Edit, Delete, View)
 3️⃣ Secure API with authentication & validation)
-4️⃣ Spending Insights (Pie chart analytics)
+4️⃣ Spending Insights chart analytics
 
 
 📸 Screenshots
