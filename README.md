@@ -24,6 +24,7 @@ Deployment: Render
 
 
 ![Home](./frontend/pics/Screenshot%20(5).png)
+![Home](frontend/pics/Screenshot%202025-05-11%20073914.png)
 
 ## Login
 ![Login](./frontend/pics/Screenshot%202025-05-10%20231825.png)
